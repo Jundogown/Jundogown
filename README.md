@@ -23,6 +23,7 @@ php에는 morden php에 맞추어 코드를 작성하기위해 노력 했으며,
 해당 리뉴얼을 진행하며 typeScript를 쓰면서, 각자 맞는 타입을 interface를 통해 정의 하며 타입에 대해 신경쓰며 코드를 작성하였습니다.
 그리고 백엔드를 진행했던 경험을 살려 백엔드와 소통하며 프론트단에서 보다 빠르고, 효율적인 코드를 작성하려고 소통하였습니다.
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundogown&hide=contribs,prs&show_icons=true&theme=city_lights)
 <!--
 **Jundogown/Jundogown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
